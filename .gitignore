@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/app/build
+/Suraksha-Latest.apk
+/app/*.apk
+/app/*.aab
+/app/release/
+/app/debug/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Crash logs
+*.log
+*.orig
+
+# IDE / Tooling artifacts
+.artifacts/
+
+# Local Mapbox token
+app/src/main/res/values/mapbox_access_token.xml
+
+.idea/
